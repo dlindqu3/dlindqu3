@@ -1,10 +1,9 @@
 
-:wizard: 
 
 ## About Me
-:snake: Graduate of Code Fellows software bootcamp -- certificate, Advanced Software Development with Python
-:earth_asia: Graduate of Johns Hopkins University SAIS -- MA, International Studies 
-:ramen: Besides programming, I enjoy learning languages （比如中文），exercising, and eating spicy food (我不怕辣，怕不辣）
+:snake: Graduate of Code Fellows software bootcamp -- certificate, Advanced Software Development with Python <br />
+:earth_asia: Graduate of Johns Hopkins University SAIS -- MA, International Studies <br />
+:ramen: Besides programming, I enjoy learning languages （比如中文），exercising, and eating spicy food (我不怕辣，怕不辣）<br />
 
 
 
