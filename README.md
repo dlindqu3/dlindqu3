@@ -1,4 +1,12 @@
-### Hi there 👋
+
+:wizard: 
+
+## About Me
+:snake: Graduate of Code Fellows software bootcamp -- certificate, Advanced Software Development with Python
+:earth_asia: Graduate of Johns Hopkins University SAIS -- MA, International Studies 
+:ramen: Besides programming, I enjoy learning languages （比如中文），exercising, and eating spicy food (我不怕辣，怕不辣）
+
+
 
 <!--
 **dlindqu3/dlindqu3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
