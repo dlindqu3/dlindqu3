@@ -2,7 +2,7 @@
 
 ## About Me
 :snake: Graduate of Code Fellows software bootcamp -- certificate, Advanced Software Development with Python. <br />
-:cloud: Passed the AWS Solutions Architect - Associate exam, September 2023. Passed the AWS Certified Cloud Practitioner exam, April 2023. <br /> 
+:cloud: Passed the AWS Developer - Associate exam, October 2023. Passed the AWS Solutions Architect - Associate exam, September 2023. Passed the AWS Certified Cloud Practitioner exam, April 2023. <br /> 
 :earth_asia: Graduate of Johns Hopkins University SAIS -- MA, International Studies. <br />
 :ramen: Besides programming, I enjoy learning languages （比如中文），exercising, and eating spicy food (我不怕辣，怕不辣). <br />
 
